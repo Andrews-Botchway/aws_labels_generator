@@ -28,3 +28,17 @@ An AWS-powered workflow that:
 - **Amazon S3** → image storage  
 - **Amazon Rekognition** → image analysis & labeling  
 - **AWS CLI** → command-line interaction with AWS services  
+
+---
+
+##➡️ Diagram
+This is what the architecture looks like
+
+<img width="1607" height="808" alt="aws_labels_generator_diagram" src="https://github.com/user-attachments/assets/04e5fd7f-a0c4-47cc-8e32-e78294bb9e85" />
+
+--
+
+##➡️ Final Result
+This is what your project will look like, once built:
+
+<img width="796" height="680" alt="aws_labels_generator_final_result" src="https://github.com/user-attachments/assets/8a17b5cf-b494-4c21-bee6-7b321d340786" />
