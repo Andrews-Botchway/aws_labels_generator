@@ -40,11 +40,11 @@ Example: Upload a photo of a shipping port → system returns labels such as `Ca
 ## Architecture Diagram
 This is what the architecture looks like
 
-<img width="1607" height="808" alt="aws_labels_generator_diagram" src="https://github.com/user-attachments/assets/04e5fd7f-a0c4-47cc-8e32-e78294bb9e85" />
+![alt text](100.png)
 
 ---
 
 ## Final Result
 This is what your project will look like, once built:
 
-<img width="796" height="680" alt="aws_labels_generator_final_result" src="https://github.com/user-attachments/assets/8a17b5cf-b494-4c21-bee6-7b321d340786" />
+![alt text](101.png)
