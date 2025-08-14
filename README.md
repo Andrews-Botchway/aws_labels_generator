@@ -46,5 +46,3 @@ This is what the architecture looks like
 
 ## Final Result
 This is what your project will look like, once built:
-
-![alt text](102.png)
