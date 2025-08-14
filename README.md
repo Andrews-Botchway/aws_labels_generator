@@ -1,9 +1,8 @@
 # aws_labels_generator
-Build an image labels generator using Amazon Rekognition
 
 # 🖼️ Image Labels Generator with Amazon Rekognition
 
-This project uses **Amazon Rekognition** to automatically detect and label objects in images.  
+This project uses **Amazon Rekognition** to detect and label objects in images automatically.  
 Example: upload a photo of a cat → get labels like `Cat 🐱, Animal, Pet`.
 
 ---
@@ -31,9 +30,3 @@ An AWS-powered workflow that:
 - **Amazon S3** → image storage  
 - **Amazon Rekognition** → image analysis & labeling  
 - **AWS CLI** → command-line interaction with AWS services  
-
----
-
-## ⏱ Time & 💲 Cost
-- **Build time:** ~20–30 mins  
-- **Cost:** Free (AWS Free Tier)  
