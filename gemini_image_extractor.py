@@ -46,8 +46,8 @@ def detect_labels(photo, bucket):
     return len(response['Labels'])
 
 def main():
-    photo = 'image_file_name'
-    bucket = 'bucket_name'
+    bucket = input("Enter the S3 bucket name: ").strip()
+    photo = input("Enter the image file name in the bucket: ").strip()
     label_count = detect_labels(photo, bucket)
     print("Labels detected:", label_count)
 
@@ -55,4 +55,3 @@ if __name__ == "__main__":
     main()
 
 
- 

@@ -28,9 +28,9 @@ Note: The Python functional file implementing these functions is attached to thi
 5. **Run the Project:**
 Execute the Python script in your terminal using python name_of_python_file.py. The script outputs the detected labels with confidence scores and opens a pop-up displaying the image with labeled bounding boxes.
 
-![alt text](102.png)
+![alt text](101-1.png)
 
-![alt text](101.png)
+![alt text](102-1.png)
 
 6. **Conclusion:**
 The Image Label Generator project demonstrates how to use AWS Rekognition with Python to detect labels in images stored in S3. It includes functionality for displaying images with detected labels and confidence scores.
